@@ -1,0 +1,14 @@
+{
+  "name": "city",
+  "version": "1.0.0",
+  "description": "Web site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Felipe",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
